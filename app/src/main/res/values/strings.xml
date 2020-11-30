@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Movie World</string>
+    <string name="enter_query_params_here">enter query params here</string>
+    <string name="search">Search</string>
+    <string name="create_by">Created By: Kisker</string>
+
+    <!--
+    Odredjujemo ime fijoke, podnaslov i ikonice (ako zelimo)
+    -->
+    <string name="drawer_ime_pretraga">Search for Movies</string>
+    <string name="drawer_podnaslov_pretraga">Go to Search page</string>
+    <string name="drawer_ime_favorites">My Movies</string>
+    <string name="drawer_podnaslov_favorites">Go to My Movies page</string>
+    <string name="drawer_ime_settings">Settings</string>
+    <string name="drawer_podnaslov_settings">Configuration</string>
+    <string name="drawer_ime_obrisi">Delete</string>
+    <string name="drawer_podnaslov_obrisi">Delete Your Favorite Movies</string>
+    <string name="About">About</string>
+    <string name="Ok" translatable="false">Ok</string>
+    <string name="created_by">Created by:</string>
+    <!--
+      Odredjujemo otvaranje i zatvaranje fijoka klikom na sandwich
+      -->
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <!--
+  Odredjujemo Settings
+  -->
+
+    <string name="Notifications">Notifications</string>
+    <string name="show_notifications">Show Notifications</string>
+    <string name="SplashScreen">Splash Screen Settings</string>
+    <string name="show_splash_screen">Show Splash Screen</string>
+
+
+
+
+
+</resources>
